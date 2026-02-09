@@ -1,0 +1,26 @@
+name: tamil_pdf_shaper
+description: A production-grade engine to render Tamil Unicode text correctly in Flutter PDF workflows. Includes embedded glyph mapping and font management.
+version: 1.0.1
+homepage: https://github.com/tharanitharan305/tamil_pdf_shaper
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.3.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # Using the standard pdf package as the target consumer
+  pdf: ^3.11.3
+  # Useful for character cluster manipulation
+  characters: ^1.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  # We expose the font as an asset so it can be loaded as bytes
+  assets:
+    - assets/fonts/Anand_MuktaMalar.ttf

@@ -1,0 +1,26 @@
+name: tamil_pdf_shaper_example
+description: Demonstrates how to use the tamil_pdf_shaper package.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # PDF generation packages
+  pdf: ^3.10.0
+  printing: ^5.11.0
+
+  # CRITICAL: Link to the local package in the parent directory
+  tamil_pdf_shaper:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
