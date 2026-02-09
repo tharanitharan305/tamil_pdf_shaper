@@ -154,9 +154,19 @@ Every contribution helps grow the Tamil developer ecosystem 💙
 
 If this package helps you, consider supporting development:
 
-[![GitHub stars](https://img.shields.io/github/stars/tharanitharan305/tamil_pdf_shaper?style=social)](https://github.com/tharanitharan305/tamil_pdf_shaper)
-[![pub package](https://img.shields.io/pub/v/tamil_pdf_shaper.svg)](https://pub.dev/packages/tamil_pdf_shaper)
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/tharanitharan)
+<p align="center">
+  <a href="https://github.com/tharanitharan305/tamil_pdf_shaper">
+    <img src="https://img.shields.io/github/stars/tharanitharan305/tamil_pdf_shaper?style=social" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://pub.dev/packages/tamil_pdf_shaper">
+    <img src="https://img.shields.io/pub/v/tamil_pdf_shaper.svg" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://buymeacoffee.com/tharanitharan">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40"/>
+  </a>
+</p>
 
 Your support helps maintain and improve the project ❤️
 
