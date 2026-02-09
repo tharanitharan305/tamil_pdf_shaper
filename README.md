@@ -154,7 +154,7 @@ Every contribution helps grow the Tamil developer ecosystem 💙
 
 If this package helps you, consider supporting development:
 
-<p align="center">
+<p>
   <a href="https://github.com/tharanitharan305/tamil_pdf_shaper">
     <img src="https://img.shields.io/github/stars/tharanitharan305/tamil_pdf_shaper?style=social" />
   </a>
