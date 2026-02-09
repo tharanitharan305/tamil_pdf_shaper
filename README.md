@@ -110,17 +110,17 @@ This package ensures visually correct Tamil output inside PDFs.
 ## 📸 Visual Demo
 
 <p align="center">
-  <img src="assets/images/before.png" width="600"><br>
+  <img src="assets/images/before.png" width="300"><br>
   <em>Before shaping – incorrect Tamil rendering</em>
 </p>
 
 <p align="center">
-  <img src="assets/images/after.png" width="600"><br>
+  <img src="assets/images/after.png" width="300"><br>
   <em>After shaping – correct Tamil glyph rendering</em>
 </p>
 
 <p align="center">
-  <img src="assets/images/inpdf.png" width="600"><br>
+  <img src="assets/images/inpdf.png" width="300"><br>
   <em>Final rendered output inside PDF</em>
 </p>
 
