@@ -1,6 +1,5 @@
 # Tamil PDF Shaper
 
-
 A production-grade Flutter engine for rendering Tamil Unicode text correctly in PDF documents.
 
 ---
@@ -105,6 +104,25 @@ Example:
 
 Without shaping, PDF engines render incorrect character order.
 This package ensures visually correct Tamil output inside PDFs.
+
+---
+
+## 📸 Visual Demo
+
+<p align="center">
+  <img src="assets/images/before.png" width="600"><br>
+  <em>Before shaping – incorrect Tamil rendering</em>
+</p>
+
+<p align="center">
+  <img src="assets/images/after.png" width="600"><br>
+  <em>After shaping – correct Tamil glyph rendering</em>
+</p>
+
+<p align="center">
+  <img src="assets/images/inpdf.png" width="600"><br>
+  <em>Final rendered output inside PDF</em>
+</p>
 
 ---
 

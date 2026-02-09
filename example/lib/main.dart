@@ -39,7 +39,7 @@ class TamilPdfExample extends StatelessWidget {
     final tamilFont = await TamilPdfFont.load();
 
     // 2. Sample Content
-    const String title = "மதிப்பீடு (Estimate)";
+    const String title = "வாழ்க தமிழ்";
     const String poem = '''
 உவவுமதி உருவின் ஓங்கல் வெண்குடை
 நிலவுக் கடல் வரைப்பின் மண்ணகம் நிழற்ற,
